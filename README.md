@@ -1,2 +1,10 @@
 # coding-coach-dotnet-client
-dotnet client to access the coding coach api
+
+dotNet client to access the [Coding Coach](https://codingcoach.io/) api
+
+# api project
+
+- [Github](https://github.com/Coding-Coach/find-a-mentor-api)
+- [Swagger doc](https://api-staging.codingcoach.io/)
+
+
