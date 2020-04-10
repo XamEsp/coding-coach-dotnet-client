@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>io.codingcoach.dotnetclient</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Rodrigo Juarez</Authors>
+    <Description></Description>
+    <PackageProjectUrl>https://github.com/XamEsp/coding-coach-dotnet-client</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/XamEsp/coding-coach-dotnet-client</RepositoryUrl>
+    <PackageTags>codingcoach,api</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
